@@ -1,0 +1,276 @@
+Job Description: Senior Researcher in Computer/Data Science (4 positions)
+Faculty/Centre:
+Salary:
+Hours of work:
+Number of positions:
+Contract:
+Location:
+
+Introduction
+
+HET Systems Centre
+From 2864 Euros per month (before taxes)
+Full time
+4
+1-Year fixed-term, leading to a 5-years long-term contract and
+permanent employment thereafter based on performance.
+Vilnius, Lithuania
+
+Mykolas Romeris University (MRU), established in 1990 after the restoration of
+the country’s independence, is the youngest public institution of higher
+education in Lithuania, and the largest delivering research and education in
+social science and humanities. Located in Vilnius, the country’s capital, MRU
+is today a modern, open, dynamic and international university that welcomes
+learners and scholars from around the world.
+The Human-Environment-Technology (HET) Systems Centre, led by Dr Sergio
+Jofre, is a newly established academic unit at MRU that reflects on the
+university’s long-term strategic plan to enhance the internationalization and
+interdisciplinarity of research and education. The Centre’s research focuses on
+the cross-disciplinary exploration of complex systems defined by the
+interaction, interdependency, and co-evolution of human, environmental, and
+technological factors. Examples of HET systems include energy systems,
+transport, food systems, health, smart cities, autonomous vehicles, and more.
+
+Background
+information
+
+As a member of the HET Systems Centre at MRU, you will join a small, but
+active international team of colleagues conducting world-class inter- and crossdisciplinary research in areas such as for example cyber security and resilience
+of critical infrastructure, trustworthy AI by design, autonomous vehicles,
+Industry 4.0, and digital transformation of the circular economy. The Centre
+already counts with a strong network of partners and collaborations within and
+beyond Europe, offering interesting opportunities for research and mobility.
+You will work alongside the Centre’s Director and other researchers to further
+develop existent and new research lines within the overall theme of the Centre
+and your own interest. As the development of the Centre progresses over time,
+each researcher will have the opportunity and support to form and lead
+research lines aligned with their career goals.
+In general, you will be expected to have a proactive and independent role on
+the Centre’s scientific production, dissemination of research outcomes,
+attraction of external research funding, and networking. Although the position
+focuses on research, a minor but decisive participation in education activities
+will be encouraged (e.g., supervision of students’ research projects, curricular
+development, or teaching in relevant subjects).
+
+1
+
+In addition to the base salary, researchers at MRU, who participate in externally
+funded research projects, are entitled to an additional bonus commensurate to
+their workload in the project.
+We are seeking to employ four senior researchers to work and develop highquality research in one of these areas:
+Position 1: Cyber Physical Systems and Cyber Security
+Position 2: Internet of Things and Automation
+Position 3: Digital Twin Development and Implementation
+Position 4: Data Science and/or Data Analytics
+Although the posts target senior researchers (Established Researcher, R3
+level), applications from candidates with higher or lower qualifications will be
+considered, if a strong match with the vision and objectives of the Centre are
+identified.
+Informal enquiries are welcome and should be directed to:
+Dr Sergio Jofre,
+Head of HET Systems Centre,
+s.jofre@mruni.eu
+or
+Dr Giedre Sabaliauskaite,
+Professor in Cyber Security,
+giedre.s@mruni.eu
+Please Indicate in the subject: “Job application HET Centre, Senior
+Researcher”
+
+Main Purpose
+of Post
+
+Management
+
+1. Research Outputs and Activity: Play a significant role in the strategic
+direction and development of the research area, sustain a track record of
+research outputs and their dissemination in high quality publications or
+other media.
+2. Research Projects and Grants: Obtain research funding or other resources
+to underpin research with responsibility for developing and leading a major
+programme of individual or collaborative research.
+3. Esteem: Achieve external recognition as an established authority within the
+discipline, contributing to the wider academic or professional community.
+4. Contributing to Centre’s Activities: Take part in formulating Centre
+decisions and contributing to activities beyond the immediate research,
+teaching or scholarship commitments.
+5. Participating in Professional Activities: Engage with professional activities
+related to the discipline through networking at conferences or involvement
+in external groups.
+6. Managing Self and Others: Support and enable the development of
+colleagues, students and/or yourself.
+
+2
+
+Teaching and
+Training
+
+General
+Duties
+
+7. Teaching Delivery: Contribution to teaching will be encouraged and it might
+include preparation of course content and materials, and delivery of
+courses in computer/data science related subjects.
+8. Mentoring of Students: Engage with mentoring of students at different
+levels of education (e.g., supervising final year projects, thesis, etc.).
+9. Delivery of Training: Contribute to delivery of training to different
+stakeholders in related areas of expertise.
+10. Promote equality and diversity in working practices and maintain positive
+and collaborative working relationships.
+11. Conduct the job role and all activities in accordance with safety, health and
+sustainability policies and management systems, to reduce risks and
+impacts arising from the work activity.
+12. Ensure that risk management is an integral part of any decision-making
+process, by ensuring compliance with the University’s Risk Management
+Policy.
+
+Person Specification Criteria, General to ALL
+Positions (1-4)
+Qualifications
+1. A PhD in a relevant subject area or closely related
+field.
+Research
+2. A sustained track record of research outputs in
+high quality publications or other media showing
+a continuing upward trajectory in the quality of
+research outputs.
+3. Success in obtaining funding or other resources to
+underpin original research, with responsibility for
+developing and leading a major programme of
+individual or collaborative research.
+
+Typically evidenced by:
+
+Application/CV
+
+At least three internationally excellent
+outputs in the last five years.
+
+A successful track record of attracting
+external grant funding as a Principal
+Investigator.
+
+4. External recognition as an established authority Evidence of international peer recognition
+
+within the discipline, contributing to the wider over the last 5 years.
+A record of sustained conference
+academic or professional community.
+participation, membership in scientific
+communities, editorial and review
+activities, etc.
+Teaching
+5. Evidence of or ability to undertake effective Positive student or peer feedback, acting as
+delivery of teaching and assessment of modules an effective tutor or student project
+supervisor with successful outcomes.
+and/or supervision of student projects.
+Management
+6. Taking an active part in decisions and activities in Examples showing personal contribution
+an academic unit or institution, beyond own and impact.
+research and/or teaching commitments.
+
+3
+
+Specific Criterial for Position 1: Cyber Physical Systems and Cyber Security
+Must Have
+P1-1. Expertise and experience in Computer Science or closely related field
+P1-2. Experience/skills in ethical hacking and/or security testing
+P1-3. Advanced programming skills
+Desirable
+P1-4. Knowledge and/or experience in cyber physical systems, e.g., robots, automated vehicles,
+critical infrastructure
+P1-5. Knowledge and/or experience in threat analysis and risk assessment
+P1-6. Knowledge and/or experience in applying cyber security standards
+P1-7. Experience with or understanding about Industry 4.0
+P1-8. Skills, knowledge, experience or interest in development and/or application of AI
+P1-9. Experience/skills in relevant entrepreneurial/innovation ventures
+
+Specific Criterial for Position 2: Internet of Things and Automation
+Must Have
+P2-1. Expertise and experience in relevant field of Engineering or Science
+P2-2. Knowledge and experience in IoT and automation
+P2-3. Experience in Cloud Computing and/or Networks (including 5G)
+P2-4. Knowledge and/or experience in Industry 4.0
+Desirable
+P2-5. Experience working in industry or developing solutions for industry partners/clients
+P2-6. Knowledge or experience in Smart Systems/Smart Industry/Smart Cities
+P2-7. Knowledge and/or experience in critical infrastructure
+P2-8. Experience or interest in developing or applying AI solutions
+P2-9. Experience/skills in relevant entrepreneurial/innovation ventures
+
+Specific Criterial for Position 3: Digital Twin Development and Implementation
+Must Have
+P3-1. Expertise and experience in relevant field of Engineering or Science
+P3-2. Relevant experience in development/implementation of digital twins
+P3-3. Knowledge and experience in process and system modelling and excellent mathematical
+skills (e.g., calculus, algebra, 3D geometry)
+P3-4. Excellent programming skills (e.g., Python, C++, Rust)
+
+4
+
+Desirable
+P3-5. Experience with Human-Computer Interaction (HCI)
+P3-6. Experience or interest on modelling/visualization of complex systems
+P3-7. Experience and skills in Metaverse (e.g, XR, MR, VR, AR)
+P3-8. Skills in AI and ML
+P3-9. Experience with or understanding about Industry 4.0
+P3-10. Experience/skills in relevant entrepreneurial/innovation ventures
+
+Specific Criterial for Position 4: Data Science and/or Data Analytics
+Must Have
+P4-1. Expertise and experience in Data Science or closely related field of Engineering or Science
+P4-2. Working experience as data scientist or data analyst in academia and/or industry
+P4-3. Solid skills and competences in programming (e.g., Python, R, Java, Scala, SQL, SAS, etc.)
+P4-4. Experience developing/training AI models
+P4-5. Experience with ML libraries and frameworks
+Desirable
+P4-6. Experience working with Big Data
+P4-7. Experience developing algorithms and data models to forecast outcomes
+P4-8. Experience working with Cloud platforms
+P4-9. Knowledge, experience or interest in Environmental Information Systems
+P4-10. Experience/skills in relevant entrepreneurial/innovation ventures
+
+How to Apply:
+Important: Before to prepare and submit your application, please make sure you are
+eligible to live and work in Lithuania. For further information on this matter please follow
+the following links:
+General Information on work permits
+How to apply for a work permit/visa
+For all applicants:
+To apply, please prepare and send the following documents:
+1. A cover letter: up to two sides of A4 explaining how you meet each of the selection criteria for
+your role (both general and specific), clearly indicating the position you are applying for and
+where did you find about the vacancy.
+
+5
+
+2. A CV of a maximum of 3 sides of A4. Please do not include publications, but indicate your
+ORCID or Google Scholar ID instead. At the end of your CV, please provide the name and
+contact details of TWO relevant persons willing to be contacted to provide references of your
+pervious work (please do not include any written letter of reference in your application).
+3. A description of research experience and interests, including a brief explanation of your
+intended work at and contribution to the Centre: up to three sides of A4.
+4. Summary of relevant teaching experience and interests of a maximum of 1 side of A4.
+5. A complete list of your publications, including any forthcoming (submitted or under review)
+and/or intended (pipeline) publications, if any.
+
+For all your documents, please use a minimum font size of 11pt.
+Please organize and submit the documents as ONE single application package (PDF file).
+You can apply to more than one position, but you must submit each application separately (one
+application package per position).
+For shortlisted applicants, two samples of writing (published or unpublished) and copies of
+relevant qualifications (officially translated to English if issued in other languages) will be required
+ahead of the interview. Please be aware that referees listed in your CV might be contacted at this
+point of the selection process.
+Interviews will take place in person or remotely, in the week commencing Month, Day.
+If you have any special requirement regarding the interview (e.g., due to impairment or disability)
+please notify the contact person indicated in this description in advance.
+Application deadline:
+2025-08-31
+APPLY:
+Please send your application package to: akademiniaikonkursai@mruni.eu
+Indicating in the subject: Job application HET Centre: Senior Researcher Position (position
+number 1-4)
+
+6
+
+
