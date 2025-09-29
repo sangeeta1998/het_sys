@@ -1,11 +1,7 @@
-# HET Systems Centre Research Portfolio
-
-## 🎯 Research Overview
-This repository contains comprehensive research materials for **Senior Research Position** at HET Systems Centre, Mykolas Romeris University, focusing on **Internet of Things and Automation**.
 
 ## 📁 Project Structure
 
-### 🔬 Research Experiments
+### 🔬 Experiments
 
 #### 1. **`quantum_resilient_iot/`** - Quantum-Resilient IoT Orchestration
 - **Focus**: Post-quantum cryptography for critical infrastructure
@@ -38,7 +34,7 @@ This repository contains comprehensive research materials for **Senior Research 
 
 ## 🚀 Quick Start
 
-### For Interview Presentation
+
 ```bash
 cd web_demos
 python3 serve_demo.py
@@ -80,15 +76,9 @@ python3 adaptive_iot_orchestration.py
 - **Impact**: Resilient IoT systems in dynamic network conditions
 - **Applications**: Industrial IoT, smart cities, autonomous systems
 
-## 🎤 Interview Strategy
 
-### Senior Research Position (10 minutes)
-1. **Research Vision** (3 min) - Quantum threat and novel solutions
-2. **Technical Innovation** (4 min) - Advanced cryptographic techniques
-3. **Live Demonstration** (2 min) - Working prototype with metrics
-4. **Research Impact** (1 min) - HET Centre contribution and funding
 
-### Key Messages
+### Messages
 - **Cutting-Edge Innovation**: Addresses most pressing IoT security challenges
 - **Technical Sophistication**: Novel combination of advanced techniques
 - **Research Excellence**: Clear path to top-tier publications and funding
@@ -108,12 +98,5 @@ python3 adaptive_iot_orchestration.py
 - Multi-objective optimization (latency, energy, reliability)
 - Edge computing resilience coordination
 
-## 🎉 Ready for Interview!
 
-This research portfolio demonstrates:
-- ✅ **Senior-level innovation** with cutting-edge research
-- ✅ **Technical sophistication** with advanced implementations
-- ✅ **Research excellence** with clear publication and funding paths
-- ✅ **Real-world impact** on critical infrastructure security
 
-**You're ready to demonstrate the level of innovation and technical sophistication expected for a senior research position!** 🚀
