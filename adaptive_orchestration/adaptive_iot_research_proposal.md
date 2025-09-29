@@ -3,7 +3,6 @@
 
 **Position 2: Internet of Things and Automation**  
 **HET Systems Centre, Mykolas Romeris University**  
-**Sangeeta Kakati**
 
 ---
 

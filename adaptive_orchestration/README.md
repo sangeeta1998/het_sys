@@ -1,7 +1,7 @@
 # Adaptive IoT Orchestration
 
 ## 🔬 Research Focus
-This folder contains the **Adaptive IoT Orchestration** research - a novel framework for self-adapting IoT systems in dynamic network conditions.
+This folder contains the **Adaptive IoT Orchestration** research, a novel framework for self-adapting IoT systems in dynamic network conditions.
 
 ## 📁 Contents
 
